@@ -12,7 +12,7 @@ func TestTerraformWebserverExample(t *testing.T) {
 
 	terraformOptions := terraform.WithDefaultRetryableErrors(t, &terraform.Options {
 
-		TerraformDir: "../examples/webserver"
+		TerraformDir: "../examples/webserver",
 
 		Vars: map[string]interface{}{
 			"region": "us-west-2",
