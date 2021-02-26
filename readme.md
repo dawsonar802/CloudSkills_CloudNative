@@ -1,13 +1,13 @@
 # CLoudskills CLoud Native Bootcamp Repo
 
 ## 1. Week 1 - DevOps Fundamentals
-## 2. Week 2 - Scripting Like a Developer
+## 2. [Week 2 - Scripting Like a Developer](https://github.com/dawsonar802/CloudSkills_CloudNative/tree/main/week2)
     a. Python
     b. Powershell
     c. Linting
     d. Testing
     e. Documentation
-## 3. Week 3 - Infrastructure as Code
+## 3. [Week 3 - Infrastructure as Code](https://github.com/dawsonar802/CloudSkills_CloudNative/tree/main/week3)
     a. ARM Template
     b. Terraform
     c. Testing with GO
