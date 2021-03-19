@@ -15,3 +15,13 @@ MesloLGM Nerd Font
 
 ## Glyph Codes to use
  [Link](https://www.nerdfonts.com/cheat-sheet)
+
+## VSCode 
+
+> export extensions
+ ```code --list-extensions > extensions.txt```
+ 
+ > import extensions
+ ``` extensions.txt | code --install-extensions```
+
+[VSCode Terminal Settings](https://code.visualstudio.com/docs/editor/integrated-terminal)
